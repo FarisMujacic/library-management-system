@@ -35,3 +35,5 @@ This is a **web-based Library Management System** developed during my high schoo
    - Open your browser and navigate to `http://localhost/Maturski`
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/8c9cd1e4-5cfa-4b22-ac1f-217c38937649)
+
